@@ -1,5 +1,5 @@
 # webhookTest
-Discord Server Link: <link removed>
+Discord Server Link: "link removed'
 
 This is just a repository to test out webhooks on my Discord server.
 
